@@ -125,7 +125,7 @@ Copy the project folder into your htdocs directory:
 
 ### Step 3: Import Database
 
-1.  Open [http://localhost/phpmyadmin](https://www.google.com/search?q=http://localhost/phpmyadmin)
+1.  Open [http://localhost/phpmyadmin](http://localhost/phpmyadmin)
     
 2.  Create a new database named: `votesystem`
     
@@ -134,9 +134,9 @@ Copy the project folder into your htdocs directory:
 
 ### Step 4: Run the Application
 
-- **User Interface:** [http://localhost/ElectionResults_system](https://www.google.com/search?q=http://localhost/ElectionResults_system)
+- **User Interface:** [http://localhost/ElectionResults_system](http://localhost/EelctionRsults_system/)
     
-- **Admin Panel:** [http://localhost/ElectionResults_system/admin](https://www.google.com/search?q=http://localhost/ElectionResults_system/admin)
+- **Admin Panel:** [http://localhost/ElectionResults_system/admin](http://localhost/EelctionRsults_system/admin/)
     
 
 **Default Admin Login:**
