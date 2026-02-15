@@ -1,0 +1,10 @@
+{
+  "name": "election-results-system",
+  "dependencies": {
+    "admin-lte": "2.4.18",
+    "datatables.net-bs": "1.10.25"
+  },
+  "resolutions": {
+    "datatables.net-bs": "^2.1.1"
+  }
+}
