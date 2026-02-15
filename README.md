@@ -134,9 +134,9 @@ Copy the project folder into your htdocs directory:
 
 ### Step 4: Run the Application
 
-- **User Interface:** [http://localhost/ElectionResults_system](http://localhost/EelctionRsults_system/)
+- **User Interface:** [http://localhost/ElectionResults_system](http://localhost:8080)
     
-- **Admin Panel:** [http://localhost/ElectionResults_system/admin](http://localhost/EelctionRsults_system/admin/)
+- **Admin Panel:** [http://localhost/ElectionResults_system/admin](http://localhost:8080/admin/)
     
 
 **Default Admin Login:**
@@ -188,7 +188,7 @@ Testing was performed on all core modules to ensure the integrity of the voting 
 
 ## GitHub Repository
 
-[GitHub Link](https://github.com/ateeq605/ElectionResult-system)
+[GitHub Link](https://github.com/ateeqkhanulaw-hue/Election-management)
 
 ## Author
 
